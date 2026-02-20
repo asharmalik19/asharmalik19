@@ -7,7 +7,7 @@ Focusing on building scalable softwar systems, AI-driven workflows and automatio
 ## My Projects
 These are some of the projects I have build 
 
-| Name | Primary Tech | Description | Link |
+| Name | Primary Tech | Description |
 | :--- | :--- | :--- | :--- |
 | [**Bizsleuth**](https://apify.com/ashar_malik/bizsleuth) | `Python`, `Gemini AI`, `Playwright` | Advanced lead-enrichment tool that uses AI to qualify data. |
 | [**G-Maps Scraper**](https://github.com/asharmalik19/gmap-scraper) | `Asyncio`, `Playwright` | Optimized scraper for extracting business data from Google Maps at Scale. |
