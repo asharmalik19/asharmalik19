@@ -1,4 +1,4 @@
-# Ashar Khan | Python & Data Automation Engineer
+# Ashar Khan | Python Engineer
 
 Focusing on building scalable softwar systems, AI-driven workflows and automation systems. Currently a **Python Developer**, where I manage data and automation.
 
