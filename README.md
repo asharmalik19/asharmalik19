@@ -11,7 +11,7 @@ These are some of the projects I have build
 | :--- | :--- | :--- |
 | [**Bizsleuth**](https://apify.com/ashar_malik/bizsleuth) | `Python`, `Gemini AI`, `Playwright` | Lead-generation tool that uses AI to scrape data. |
 | [**G-Maps Scraper**](https://github.com/asharmalik19/gmap-scraper) | `Asyncio`, `Playwright` | Optimized scraper for extracting business data from Google Maps at Scale. |
-| [**Google News Summarizer**](https://github.com/) | `ChromaDB`, `FastAPI` | RAG-based application for summarizing google news articles. |
+| [**Google News Summarizer**](https://github.com/asharmalik19/g_news_summarization) | `ChromaDB`, `FastAPI` | RAG-based application for summarizing google news articles. |
 
 ---
 
