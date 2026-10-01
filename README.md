@@ -20,8 +20,8 @@ These are some of the projects I have build
 - **Scraping/Automation:** Playwright, BeautifulSoup, Scrapy, Asyncio
 - **AI/Databases:** Gemini API, ChromaDB, SQLite3
 - **Web Frameworks:** FastAPI
-- **DevOps:** Open-source contributor (Pandas/Scrapy), Git, Linux
-
+- **DevOps:** Git, Linux, Github Actions
+- **Open Source Contributions:** pandas, Scrapy, Nominatim
 ---
 
 ## Content & Insights
