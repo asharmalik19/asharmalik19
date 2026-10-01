@@ -21,7 +21,7 @@ These are some of the projects I have build
 - **AI/Databases:** Gemini API, ChromaDB, SQLite3
 - **Web Frameworks:** FastAPI
 - **DevOps:** Git, Linux, Github Actions
-- **Open Source Contributions:** pandas, Scrapy, Nominatim
+- **Open Source Contributions:** [pandas](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+state%3Aclosed+author%3Aasharmalik19), Scrapy, Nominatim
 ---
 
 ## Content & Insights
