@@ -33,8 +33,7 @@ I share my journey building and learning in public. Follow me on medium
 
 ## Background
 - **B.S. in Data Science** | Institute of Management Sciences (IMSciences), Peshawar.
-- **Current Role:** Python Developer - Data and Automation.
-
+- **Current Role:** Python Developer
 ---
 
 ## Connect with Me
