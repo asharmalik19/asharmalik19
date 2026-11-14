@@ -1,6 +1,6 @@
 # Hi, I am Ashar and I am a Python Engineer
 
-Focusing on building scalable softwar systems, AI-driven workflows and automation systems. Currently a **Python Developer**, where I manage data and automation.
+Focusing on building scalable software systems, AI-driven workflows and automation systems. Currently a **Python Developer**, where I build data pipelines and automations.
 
 ---
 
